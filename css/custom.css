@@ -4,7 +4,7 @@
 body{
 	font-size: 16px;
 	font-family: 'Fredoka One', cursive;
-	background: #3dac86;
+	background: -webkit-linear-gradient(left,#adb7ff,#ffc6ad);
 }
 
 h1,
@@ -255,7 +255,7 @@ a:focus{
 	}
 	
 	.coming-text h2 {
-		font-size: 50px;
+		font-size: 45px;
 	}
 	
 	.new-text{
