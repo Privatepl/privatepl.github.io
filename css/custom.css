@@ -115,7 +115,7 @@ a:focus{
 
 .social-link a:hover{
 	background: #fff;
-	color: #3dab87;
+	color: rgb(255, 93, 56);
 }
 
 .newsletter{
@@ -132,7 +132,7 @@ a:focus{
 }
 
 .newsletter-form{
-	background: rgba(255,255,255,0.1);
+	background: rgba(255,255,255,0.3);
 }
 
 .new-text{
@@ -172,8 +172,8 @@ a:focus{
 	margin-left: -5px;
 	width: 28%;
 	background: rgba(255,255,255,0.3);
-	color: #fff;
-	font-size: 19px;
+	color: rgba(255, 93, 56,0.3);
+	font-size: 18px;
 	text-transform: uppercase;
 	letter-spacing: 0.02em;
 	font-weight: 600;
@@ -202,7 +202,7 @@ a:focus{
 }
 
 .new-btn:hover{
-	background: rgba(255,255,255,0.5);
+	background: rgba(255,255,255,0.8);
 }
 
 .newsletter-form{
