@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 body{
 	font-size: 16px;
@@ -116,6 +117,26 @@ a:focus{
 .social-link a:hover{
 	background: #fff;
 	color: rgb(255, 93, 56);
+}
+
+.meeting {
+	display: inline-block;
+	width: 150px;
+	height: 44px;
+	border-radius: 60px;
+	border: 2px solid #fff;
+	color: #fff !important;
+	font-size: 18px;
+	padding-top: 8px;
+	margin: 0 4px;
+	margin-top: 15px;
+	transition: all 0.4s linear;
+	font-family: 'Nunito', sans-serif;
+}
+
+.meeting:hover {
+	background: #fff !important;
+	color: rgb(255, 93, 56) !important;
 }
 
 .newsletter{
@@ -270,4 +291,3 @@ a:focus{
 @media only screen and (max-width:360px){
 	
 }
-
