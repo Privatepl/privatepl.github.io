@@ -135,7 +135,28 @@ a:focus{
 	font-weight: 800;
 }
 
+.achievements {
+	display: inline-block;
+	width: 310px;
+	height: 44px;
+	border-radius: 60px;
+	border: 2px solid #fff;
+	color: #fff !important;
+	font-size: 18px;
+	padding-top: 8px;
+	margin: 0 4px;
+	margin-top: 15px;
+	transition: all 0.4s linear;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 800;
+}
+
 .meeting:hover {
+	background: #fff !important;
+	color: rgb(255, 93, 56) !important;
+}
+
+.achievements:hover {
 	background: #fff !important;
 	color: rgb(255, 93, 56) !important;
 }
