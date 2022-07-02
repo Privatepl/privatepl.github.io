@@ -49,7 +49,7 @@ a:focus{
 	position: absolute;
 	left: 0;
 	top: 0;
-	width: 100%;
+	min-width: 100%;
 	min-height: 100%;
 	background: -webkit-linear-gradient(left,#adb7ff,#ffc6ad);
 	padding: 40px 0;
